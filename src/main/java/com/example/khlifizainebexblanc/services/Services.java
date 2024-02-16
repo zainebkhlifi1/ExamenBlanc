@@ -81,5 +81,7 @@ IPersonnelRepository iPersonnelRepository;
 
     @Override
     public void totalSolde() {
+
+        Magasin magasin;
     }
 }

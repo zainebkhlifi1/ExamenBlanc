@@ -20,7 +20,5 @@ public class CarteFid {
     Long numeroCarte;
     Long solde;
     LocalDate dateCreation;
-    @OneToOne(cascade = CascadeType.ALL)
-    Client client;
 
 }
